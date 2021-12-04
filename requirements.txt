@@ -1,1 +1,1 @@
-Django~=2.2.4girls = ['Rachel', 'Monica', 'Phoebe', 'Ola', 'You']
+Django~=2.2.4
